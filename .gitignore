@@ -1,3 +1,27 @@
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.xcf
+*.ico
+*.log
+*.o
+*.swp
+
+**/bin/
+**/lib/
+**/build/
+**/examples/
+**/data/
+
+out*
+test
+a.out
+nnet
+*.kdev4
+# ###############################
 # Prerequisites
 *.d
 
@@ -50,3 +74,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+tags
