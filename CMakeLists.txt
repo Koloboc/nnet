@@ -133,7 +133,7 @@ endif()
 
 if(NNETLIB_BUILD_UTILS)
     add_subdirectory(splitter)
-    add_subdirectory(prepdataset)
+    # add_subdirectory(prepdataset)
 endif()
 
 # if(NNETLIB_BUILD_TESTS)
